@@ -42,7 +42,7 @@ onMounted(() => {
   <nav class="fixed top-0 left-0 w-full px-[5%] py-6 z-[100] backdrop-blur-sm bg-[var(--bg-color)]/80 border-b border-[var(--border-color)]">
     <div class="flex justify-between items-center max-w-[1400px] mx-auto">
       <div class="nav-item">
-        <span class="text-2xl font-extrabold tracking-tighter text-[var(--text-color)]">AHMAD.</span>
+        <span class="text-2xl font-extrabold tracking-tighter text-[var(--text-color)]">AHMAD ALI.</span>
       </div>
       <div class="flex items-center gap-8 md:gap-12">
         <div class="hidden md:flex gap-8">

@@ -91,7 +91,7 @@ onMounted(() => {
 
 <template>
   <div class="preloader fixed inset-0 z-[999] bg-accent flex items-center justify-center">
-    <div class="text-[var(--bg-color)] text-4xl font-black tracking-tighter">AHMAD.</div>
+    <div class="text-[var(--bg-color)] text-4xl font-black tracking-tighter">AHMAD ALI.</div>
   </div>
 
   <section class="min-h-screen flex items-center px-[5%] md:px-[10%] relative overflow-hidden bg-transparent pt-20">
